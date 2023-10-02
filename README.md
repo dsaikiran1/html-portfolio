@@ -10,7 +10,7 @@ I am specializing in Machine-Learning and Data-analytics .
 * ✉️  You can contact me at [dsaikiran7787@gmail.com](mailto:dsaikiran7787@gmail.com)
 * 🧠  I'm learning Machine-learning and Data analytics , Prompt engineering
 * 🤝  I'm open to collaborating on interesting projects (python, front-end developing, designing)
-* ⚡  I also have a knowledge about the AI tools and I'm also enrolled in prompt-engineering
+* ⚡  I use AI tools and stay updated
 
 ### Skills
 
